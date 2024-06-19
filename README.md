@@ -2,14 +2,13 @@
 
 <h3>Overview:</h3>
 
-The HR Analytics Dashboard provides a detailed analysis of employee attrition within an organization with 1,470 employees. It breaks down attrition by various demographic and job-related factors, such as education, age, salary, years at the company, and job role. The dashboard includes overall attrition metrics, such as the attrition rate, average age, and average salary of departing employees.
+The Ecommerce Sales Dashboard offers a comprehensive analysis of sales performance across different states, categories, customers, and payment modes. It visualizes key metrics such as the total quantity sold, revenue generated, profit, and average order value (AOV), providing a clear view of sales trends over time.
 
 <hr>
 
 <h3>Objective:</h3>
 
-The primary objective of the HR Analytics Dashboard is to identify trends and patterns in employee attrition to inform strategic decisions for improving retention rates. It aims to provide HR and management with insights to address issues related to employee turnover, thereby enhancing workforce stability and productivity.
-
+The primary objective of the Ecommerce Sales Dashboard is to provide actionable insights into sales data to help businesses make informed decisions. By understanding sales distribution, customer preferences, and profitability across different categories and regions, businesses can enhance their strategies for growth and efficiency.
 <hr>
 
 <h3>Key Features:</h3>
