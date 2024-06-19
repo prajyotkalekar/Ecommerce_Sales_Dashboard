@@ -38,18 +38,20 @@ The primary objective of the Ecommerce Sales Dashboard is to provide actionable 
 
 <h3>Impact:</h3>
 
-• Enhanced Employee Retention: By understanding the key factors contributing to employee attrition, HR can implement targeted retention strategies.
+• Enhanced Sales Strategy: By identifying top-performing states and categories, businesses can tailor their sales and marketing efforts for better results.
 
-• Strategic HR Planning: Insights from the dashboard help in workforce planning and development initiatives, ensuring that critical roles are adequately supported.
+• Improved Inventory Management: Understanding the demand for different products helps in optimizing inventory levels.
 
-• Cost Savings: Reducing attrition can lead to significant cost savings related to recruitment, onboarding, and training of new employees.
+• Customer Retention: Analyzing top customers and their preferences aids in developing targeted retention strategies.
 
-• Improved Employee Satisfaction: Addressing the root causes of attrition can improve overall employee satisfaction and morale.
+• Optimized Payment Processes: Insights into preferred payment modes can streamline transaction processes and improve customer experience.
+
+• Seasonal Planning: Recognizing monthly profit trends assists in planning for peak seasons and managing resources efficiently.
 
 <hr>
 
 <h3>Dashboard:</h3>
 
-![HR_Analytics](https://github.com/prajyotkalekar/HR_Analytics_Dashboard/assets/141732867/b403d45d-ce06-42d5-8671-1a21a42ae7cb)
+
 
 
