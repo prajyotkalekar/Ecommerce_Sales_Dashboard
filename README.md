@@ -52,6 +52,4 @@ The primary objective of the Ecommerce Sales Dashboard is to provide actionable 
 
 <h3>Dashboard:</h3>
 
-
-
-
+![2](https://github.com/prajyotkalekar/Ecommerce_Sales_Dashboard/assets/141732867/7c8cf422-991f-47c3-bc12-7c60089adba6)
