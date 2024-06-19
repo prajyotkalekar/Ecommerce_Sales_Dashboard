@@ -13,13 +13,19 @@ The primary objective of the Ecommerce Sales Dashboard is to provide actionable 
 
 <h3>Key Features:</h3>
 
-• Attrition Breakdown: Delve into attrition by education background, age group, salary range, and tenure at the company.
+• Sales Metrics: Displays the total quantity sold, total revenue, total profit, and average order value.
 
-• Job Role Insights: Identify which roles have the highest turnover rates and uncover patterns to improve retention strategies.
+• Geographical Analysis: Sum of amount by state to identify top-performing regions.
 
-• Gender Analysis: Understand the distribution of attrition between male and female employees to address any potential disparities.
+• Category Insights: Sum of quantity by category to understand product performance.
 
-• Average Metrics: Analyze average age, salary, and years at the company for departing employees to pinpoint critical factors contributing to attrition.
+• Customer Analysis: Sum of amount by customer to highlight key customers.
+
+• Payment Mode Distribution: Sum of quantity by payment mode to understand customer payment preferences.
+
+• Monthly Profit Trends: Visual representation of profit by month to identify seasonal trends.
+
+• Sub-Category Profit Analysis: Sum of profit by sub-category to identify the most profitable products.
 
 <hr>
 
